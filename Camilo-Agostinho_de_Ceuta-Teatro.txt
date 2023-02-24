@@ -1,7 +1,9 @@
-
-Camilo Castelo Branco
-
-Agostinho de Ceuta
+---
+Title: Agostinho de Ceuta
+Author: Camilo Castelo Branco
+Date: 1887
+Type: Teatro
+---
 
 Teatro
 Drama em quatro Actos
@@ -49,13 +51,6 @@ Uma Aia de D. Leonor de Melo
 Sete fidalgos portugueses, soldados, frades e religiosos.
 
 A cena é Lisboa e Évora.
-
-
-
-
-
-
-http://groups.google.com/group/digitalsource
 
 
 
