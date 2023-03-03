@@ -1,0 +1,8 @@
+Estrutura:
+
+O livro "Carlota Ângela" é um romance histórico escrito por Camilo Castelo Branco e publicado em 1858.
+
+A estrutura do livro segue o formato típico de um romance, com capítulos numerados sequencialmente que contam a história da protagonista. 
+Há uma introdução escrita pelo autor, na qual ele explica o contexto histórico e social em que a história se passa, e um epílogo, que serve para amarrar as pontas soltas da trama e dar uma conclusão ao enredo.
+Possui 19 capítulos ao todo, e uma introdução, que vem antes dos capítulos. 
+Nessa parte, o autor contextualiza a história, apresentando ao leitor as personagens e o cenário em que se passa o romance.
