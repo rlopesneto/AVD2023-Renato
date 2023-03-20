@@ -1,11 +1,13 @@
+
 ---
-Title: Carlota Angela
-Author: Camilo Castelo Branco
-Date: 1858 
-Type: Romance
+
+# Estrutura de um Romance linear dividido em capítulos
+       Title: Carlota Angela
+       Author: Camilo Castelo Branco
+       Date: 1858 
+       Type: Romance
 ---
-     
-    Capítulo I
+# Capítulo I #
     
      Se a natureza formou uma bela criatura, não pode a fortunaprecipitá-la num incêndio?
      Shakespeare, Como Vós O Amais.
@@ -28,7 +30,9 @@ Type: Romance
      Aí está o que eu tinha escrito. Tudo rejeitei, contra a opinião de um congresso de homens de delicado gosto, que votaram por qualquer dos quatro prelúdios, chasqueando-me a simpleza com que escrevi o quinto, acanhado e peco como historieta sem nervo, nem imaginação.
      E, portanto, desde já me desquito com os leitores, se no decurso deste romance me apodarem de insulso e desimaginoso.
      
-     VERDADE, NATURALIDADE, E FIDELIDADE é a minha divisa, e sê-lo-á enquanto este globo se não reconstruir à feição do disparate com que uns o alindam e outros o desfeiam.
+  # VERDADE, NATURALIDADE, E FIDELIDADE 
+     é a minha divisa, e sê-lo-á enquanto     
+     este globo se não reconstruir à feição do disparate com que uns o alindam e outros o desfeiam.
      Quem desde já sentir azias de boca, deixe isto, e desenfastie-se com as conservas irritantes da França, e até das nacionais, que também as temos, curtidas em vasilhas francesas. Embora travem à ervilhaca, é o que temos, e o que nos dão os Watteis dos fricassés literários, em menoscabo do clássico cozinhado de Domingos Rodrigues.
      Atemos o fio, e a graça de Deus nos assista, para que a benevolência do leitor se compraza com o alinho desafectado e lhano deste conto.
      A filha única de Norberto de Meireles e D. Rosália Sampaio chamava-se Carlota Ângela, e tinha dezassete anos, em 1806.
@@ -85,7 +89,7 @@ Type: Romance
      
 
      
-    Capítulo II
+# Capítulo II #
     
      Os tigres são menos sanhudos contra o homem que o próprio homem.
      Fócion, Instrução a Arístias.
@@ -142,7 +146,7 @@ Type: Romance
      
 
      
-    Capítulo III
+# Capítulo III #
     
      Tu me matas, meu pai! Quem tal pensara?
      Eu beijo a mão que o golpe me prepara.
@@ -181,7 +185,7 @@ Type: Romance
      
 
      
-    Capítulo IV
+# Capítulo IV #
     
      Salada
      ¡Ai!¡ no me dejes nunca!
@@ -236,7 +240,7 @@ Type: Romance
      
 
      
-    Capítulo V
+# Capítulo V #
     
      Sai se o vulto de meu corpo
      Mas ei non.
@@ -365,7 +369,7 @@ Type: Romance
      
 
      
-    Capítulo VI
+# Capítulo VI #
     
      Qui amans egens ingressus est princeps in amoris vias,
      Superavit aerumnis is suis aerumnas Herculis.
@@ -439,7 +443,7 @@ Type: Romance
      
 
      
-    Capítulo VII
+# Capítulo VII #
     
      Fiel é Deus, que não sofre termos mais peso do que aquele com que podem os nossos ombros. Dele se devem esperar os verdadeiros alívios, e nesta fé se acabam os quebrantos.
      Fr. António das Chagas, Canas.
@@ -524,7 +528,7 @@ Type: Romance
      
 
      
-    Capítulo VIII
+# Capítulo VIII #
     
      Didone
      ... No mai die fiamma impura
@@ -647,7 +651,7 @@ Type: Romance
      
 
      
-    Capítulo IX
+# Capítulo IX #
     
      Mon Dieu! comme il est difficile
      De courre avec de l'argent!
@@ -801,7 +805,7 @@ Type: Romance
      
 
      
-    Capítulo X
+# Capítulo X #
     
      Não há coração sem amor; ou seja a Deus ou seja ao mundo,
      há-de amar quem tem coração.
@@ -882,7 +886,7 @@ Type: Romance
      
 
      
-    Capítulo XI
+# Capítulo XI #
     
      Pois ainda não ouvistes de seu valor o maior encómio.
      José de Sousa, o Cego, Obras Póstumas.
@@ -928,7 +932,7 @@ Type: Romance
      
 
      
-    Capítulo XII
+# Capítulo XII #
     
      Nous en avons les preuves irrécusables sous nos propres yeux.
      Volney, Leçons d'histoire.
@@ -1002,7 +1006,7 @@ Type: Romance
      
 
      
-    Capítulo XIII
+# Capítulo XIII #
     
      La justicia de Dios espantosa...
      Quevedo, El Sueno del Inferno.
@@ -1059,7 +1063,7 @@ Type: Romance
      
 
      
-    Capítulo XIV
+# Capítulo XIV #
     
      Que ansias, que deseos,
      Que trabajos, conxogas, e sudores!...
@@ -1123,7 +1127,7 @@ Type: Romance
      
 
      
-    Capítulo XV
+# Capítulo XV #
     
      Crescei, mágoas, crescei, e crescei, dores;
      Quebrai o vagaroso e triste fio
@@ -1233,7 +1237,7 @@ Type: Romance
      
 
      
-    Capítulo XVI
+# Capítulo XVI #
     
      Quem quiser saber quantos são ao todo os filhos de Adão,
      conte primeiro quantos são os aflitos e atribulados.
@@ -1315,7 +1319,7 @@ Type: Romance
      
 
      
-    Capítulo XVII
+# Capítulo XVII #
     
      Dans le monde tout est confondu. Les juges ne sont plus que des burreaux, qui offrent des victimes humaines à ce Dieu mensonger qu'on appelle de Droit et la Justice. L'homme sans foi devient un sage et le sage une dupe. Le héros qui donne sa vie pour la vérité n'est qu'un malheureux fou, qui s'est sacrifié pour une chimère. Qu'iI meure désespéré sur les pavés sanglants ohjet de 1'indifférence de Dieu et de la raillerie des hommes!
      Jules Simon, Le Devoir.
@@ -1383,7 +1387,7 @@ Type: Romance
      
 
      
-    Capítulo XVIII
+# Capítulo XVIII #
     
      Venite ad me omnes qui laboratis, et
      onerati estis, et ego reficiam vos.
@@ -1424,7 +1428,7 @@ Type: Romance
      
 
      
-    Capítulo XIX
+# Capítulo XIX #
     
      As religiões no meio do século são como as ilhas no meio do mar, que às vezes por invasões do mesmo mar se vão comendo, e soçobrando, e padecem suas injúrias da vizinhança deste poderoso adversário. Mas se nas ilhas há tempestades, que será no coração dos mares? Oh! alegrem-se as ilhas, e multipliquem-se! que ainda com a comunicação tão vizinha dos mares, estão muito mais firmes e seguras que eles.
      P. Manuel Bernardes, Floresta.
@@ -1494,7 +1498,7 @@ Type: Romance
      
 
      
-    Conclusão
+# Conclusão #
     
      Cinco anos depois, vivia ainda no Mosteiro de S. Martinho de Tibães frei Francisco da Soledade.
      Os leitores de mais rija e invulnerável organização admiram-se de que tal homem pudesse viver tanto.
