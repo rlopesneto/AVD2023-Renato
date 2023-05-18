@@ -1,28 +1,27 @@
-
 ---
-# Teatro Drama em quatro Actos
-    Revision: Renato
-    Author: Camilo Castelo Branco
-    Date: 1887
-    Title: Agostinho de Ceuta
-    Type: Teatro
+Teatro Drama em quatro Actos
+Revision: Renato
+Author: Camilo Castelo Branco
+Date: 1887
+Title: Agostinho de Ceuta
+Type: Teatro
 ---
-
 
 **Prólogo da Segunda Edição**
- Há doze anos que um rapaz, sem leitura, sem meditação, sem crítica,nem gosto escreveu um drama para ser representado em teatro de província.
- Confessava ele mesmo no prólogo que lera quatro dramas originais portugueses, e alguns do Arquivo Teatral. Que ignorância e que atrevimento!
- O drama fez gemer o prelo e o senso comum. Saiu donde nunca tinha saído coisa melhor nem pior: das tipografias de Bragança.
- Oh! que berço!
- Depois, o aleijadinho teve o desplante de vir até ao Porto sobre uma mula de almocreve, e por aí ficou tolhido, não se sabe quantos anos, na Casamata dum livreiro que o comprou a peso.
- Parece que a traça, compadecida do miserando, o comeu. É certo que, doze anos depois, um editor infeliz tem a aziaga tentação de editar Agostinho de Ceuta, e chega até ao desatino de comprar a propriedade do mostrengo.
- O autor medita um instante antes de responder, e faz pé atrás doze anos na sua vida. Lembra-se das alegrias e quimeras daquele tempo, lembra-se de que, ao escrevê-lo, se julgou - não direi Shakespeare ou Malfieri, porque ele então não conhecia de nome sequer essa gente - mas julgou-se pelo menos um dramaturgo que tinha jus a impingir a leitura da sua tragédia à família, e aos vizinhos:
- Assim que via gente logo lá corria
- E o fatal cartapácio lhe empurrava.
+
+Há doze anos que um rapaz, sem leitura, sem meditação, sem crítica,nem gosto escreveu um drama para ser representado em teatro de província.
+Confessava ele mesmo no prólogo que lera quatro dramas originais portugueses, e alguns do Arquivo Teatral. Que ignorância e que atrevimento!
+O drama fez gemer o prelo e o senso comum. Saiu donde nunca tinha saído coisa melhor nem pior: das tipografias de Bragança.
+Oh! que berço!
+Depois, o aleijadinho teve o desplante de vir até ao Porto sobre uma mula de almocreve, e por aí ficou tolhido, não se sabe quantos anos, na Casamata dum livreiro que o comprou a peso.
+Parece que a traça, compadecida do miserando, o comeu. É certo que, doze anos depois, um editor infeliz tem a aziaga tentação de editar Agostinho de Ceuta, e chega até ao desatino de comprar a propriedade do mostrengo.
+O autor medita um instante antes de responder, e faz pé atrás doze anos na sua vida. Lembra-se das alegrias e quimeras daquele tempo, lembra-se de que, ao escrevê-lo, se julgou - não direi Shakespeare ou Malfieri, porque ele então não conhecia de nome sequer essa gente - mas julgou-se pelo menos um dramaturgo que tinha jus a impingir a leitura da sua tragédia à família, e aos vizinhos:
+Assim que via gente logo lá corria
+E o fatal cartapácio lhe empurrava.
 Tenho hoje dó das vítimas que imolei então ao meu orgulho de dramaturgo. Sobre todas, há um Luís de Bessa Correia em Vila Real, que ainda hoje me faz chorar o coração, como ele então chorava de riso.
- Querem ver um rasgo de humildade, de modéstia, de desprezo de minhas próprias aspirações literárias?
- Consenti que a coisa se reimprimisse, sem a minha certidão de idade apensa.
- Quem sabe se não é este livro, escrito em 1846, menos tolo que outros escritos em 1858?
+Querem ver um rasgo de humildade, de modéstia, de desprezo de minhas próprias aspirações literárias?
+Consenti que a coisa se reimprimisse, sem a minha certidão de idade apensa.
+Quem sabe se não é este livro, escrito em 1846, menos tolo que outros escritos em 1858?
 
 ***Personagens:***
 Infante D. Pedro
@@ -35,21 +34,20 @@ Fr. Luís das Chagas - Escrivão da Puridade
 Fr. Amado Vieira - Familiar do Santo Ofício
 Henrique de Miranda - Ministro da privança de D. Afonso VI
 Conde de Castelo-Melhor - Ministroda privança de D. Afonso VI
-D. Leonor de Melo Soror 
+D. Leonor de Melo Soror
 Constança da Natividade
 Soror Porteira
-Oficial do Santo Ofício 
+Oficial do Santo Ofício
 Carcereiro
 Uma Aia de D. Leonor de Melo
 Sete fidalgos portugueses, soldados, frades e
 religiosos.
 
-***A*** ***cena*** ***é*** ***Lisboa*** ***e*** ***Évora***
+***A cena é*** ***Lisboa*** ***e*** ***Évora***
 
-## Acto Primeiro ##
+# Acto Primeiro
 
-
-##### A prepotência #####
+***A prepotência***
 
 Quem outrem ama, que aproveita Trabalhar que vos ame, e que se aparte De
 seu desejo, e que por outro o negue, Se sempre foge amor de quem o
@@ -58,7 +56,7 @@ segue. (Camões, Lus., Cant. 6º, Est. 25)
 É noite. - Salão da casa de D. Manuel de Melo. Reposteiros armoreados;
 decoração magnificente.
 
-     Cena I
+***Cena I***
 
 D. Manuel de Melo, dormindo sobre um rico escabelo; e Agostinho de
 Ceuta, dormitando, com a cabeça descaída sobre a mão direita, em frente
@@ -76,7 +74,7 @@ espevitá-las: - não é isto das atribuições do pagem, mas o homem é filho
 das circunstâncias... (Espevita-as, e, assombrado, pega duma carta de
 sobre a mesa). Uma carta para D. Leonor de Melo! isto é extraordinário!
 ... aberta, e pregada com o selo de el-rei! (Abre, e lê com
-sobressalto). 
+sobressalto).
 
 "Uns olhos ternos e amadores não podiam ver-vos
 impunemente. Minha real câmara tem testemunhado os suspiros amorosos,
@@ -100,7 +98,7 @@ estou, tão pacífico e gelado! Ou eu. não amo, ou o meu amor está
 passando pela intermitente do Leão!... que será? Há mistérios na vida do
 homem, e na estação dos afectos...
 
-**D. Manuel**, sonhando 
+**D. Manuel**, sonhando
 Minha irmã... minha Leonor...
 
 **Agostinho** Sonha, e... bem pesados sonhos que eles são! Não é só o pagem
@@ -169,9 +167,9 @@ ofendido, e sacrificar à defesa... (Sai).
 **D. Manuel** Eles cuidam encontrar aqui minha irmã, e eu ouvirei as suas
 práticas (Sai).
 
-     Cena II
+***Cena II***
 
-*Henrique de Miranda, Conde de Castelo-Melhor, e depois D. Manuel de Melo*
+* Henrique de Miranda, Conde de Castelo-Melhor, e depois D. Manuel de Melo
 
 **Conde**, entrando É esta a primeira sala?
 
@@ -274,7 +272,7 @@ assombro nos dois, que se levantam).
 **D. Manuel** D. Manuel de Melo não há-de desmentir a celebridade de
 **Henrique de Miranda:** - ele vai chamar sua irmã.
 
-     Cena III
+***Cena III***
 
 Os mesmos, Agostinho, e depois D. Leonor de Melo
 
@@ -384,7 +382,7 @@ desesperação dos insensatos, quando os não castiga... Nada o impedirá.
 
 **Conde** Nem um.
 
-     Cena IV
+***Cena IV***
 
 *Os mesmos e Agostinho, que aparece ao fundo, e marcha lentamente para
 eles.*
@@ -509,7 +507,7 @@ ferro... é uma lava... é o amor...
 
 **Agostinho Minto**! Oh! se ela aqui estivesse, nem um de vós me desmentira!
 
-     Cena Última
+***Cena Última***
 
 Os mesmos e D. Leonor
 
@@ -518,9 +516,9 @@ amo-te. (Lança-se-lhe nos braços).
 
 **D. Manuel**, o rosto entre as mãos Vergonha!
 
-#### Fim do Primeiro Acto ####
+***Fim do Primeiro Acto***
 
-## Acto Segundo ##
+# Acto Segundo
 
 ***A conspiração***
 
@@ -531,7 +529,7 @@ Primeiro Quadro Vasto recinto do convento de S. Domingos. Está no centro
 longa mesa com cadeira régia à cabeceira, e assentos laterais. Sobre a
 mesa livros, pergaminhos, tinteiro, uma urna contendo uma coroa, etc.
 
-     Cena I
+***Cena I***
 
 **Fr. Bernardo** de Santa Justa, e Fr. Luís das Chagas, ambos ocupados em
 leitura
@@ -637,7 +635,7 @@ o sangue do maldito a lavaria... (Ouve-as o rodar de chaves, e divisa-se
 através da porta uma luz, que se vai aproximando. Os frades erguem-se a
 abrir a porta do fundo).
 
-     Cena II
+***Cena II***
 
 Os mesmos, Fr. Garcia de Melo, Infante D. Pedro, Fr. Amaro e 7 fidalgos
 
@@ -779,7 +777,7 @@ nobre até ao plebeu.
 
 Todos Viva!
 
-     Cena III
+***Cena III***
 
 Os mesmos, Oficial do Santo Ofício, e depois o Duque do Cadaval, e
 Agostinho de Ceuta, encapotado
@@ -881,7 +879,7 @@ o ar, a vida, e o sepulcro do desterrado! Oh raiva! que hajam grilhões
 na terra, que aqui me prendam! que não possa eu dispor desta vida... que
 me não pertence!...
 
-     Cena Última
+***Cena Última***
 
 ***Os mesmos, e o Oficial do Santo Ofício***
 
@@ -892,11 +890,11 @@ está cercada por soldados, e no Rossio se ajunta o povo.
 
 **Todos** Salvemo-la!
 
-# Segundo Quadro #
+**Segundo Quadro**
 
 ***Sala magnífica da casa do duque do Cadaval***
 
-     Cena I
+***Cena I***
 
 ***D. Leonor de Melo, escrevendo, e Beatriz, Criada, junto dela***
 
@@ -919,7 +917,7 @@ Deus, o meu esposo! Tanto hei merecido... tanto serei criminosa!...
 Virgem Maria! valei-lhes, protegei-os... pelas vossas sete dores... Meu
 Deus, que estrondo! Ah! (Perturbada, senta-se).
 
-     Cena II
+***Cena II***
 
 **D. Leonor**, Henrique de Miranda, soldados ao fundo, e Beatriz, depois,
 abre-se a porta por empuxão
@@ -1043,7 +1041,7 @@ berlinda...
 
 **Henrique** Estou perdido! Soldados, resistência...
 
-     Cena Última
+***Cena Última***
 
 ***Os mesmos, e os Cavalheiros que vimos na conspiração, entrando por todas
 as portas; lançam-se aos soldados. Agostinho à frente com a adaga
@@ -1061,9 +1059,9 @@ conjuro para que me digas a prisão de D. Manuel de Melo...
 **Agostinho** É um miserável escravo! (Perturbado) E o meu juramento!...
 (Deixa cair a adaga).
 
-### Fim do Segundo Acto ###
+*** Fim do Segundo Acto ***
 
-# Acto Terceiro #
+# Acto Terceiro
 
 ***O Suicídio***
 
@@ -1074,7 +1072,7 @@ Visita do cárcere do castelo de Évora; com porta férrea comunicável com
 corredor subterrâneo. Alguma palha, um cepo, uma bilha de água, ao pé
 duma porção de pão.
 
-     Cena I
+***Cena I***
 
 **D. Manuel** de Melo, levanta-se trôpego: - vozes sumidas É um sofrer
 ilimitado! Sempre estas trevas... sempre estas abóbadas sepulcrais...
@@ -1127,9 +1125,9 @@ aziaga em que se lançava nos braços de Agostinho de Ceuta! que
 repugnância sinto com este nome! Se a visse... perdoara-lhe e fizera
 cair-lhe no seio lágrimas de irmão...
 
-     Cena II
+***Cena II***
 
-### D. Manuel, e o Carcereiro ###
+*** D. Manuel, e o Carcereiro ***
 
 **Carcereiro** Deus vos guarde, senhor. Parece que vos vejo mais animado que
 ontem!
@@ -1191,12 +1189,12 @@ devasso... Talvez amante, que ainda é mais, roubada a seus olhos...
 longe de seus suspiros, desenlaçada de seus braços, esta hora talvez...
 (Ouve-se o prelúdio do bandolim). Ei-lo...
 
-***Canto Beatriz, Beatriz, eu perdi-te! Onde estás... nunca mais te verei!
+Canto Beatriz, Beatriz, eu perdi-te! Onde estás... nunca mais te verei!
 Carregado de ferros de amor, Bem mais duros que os ferros d'el-rei. Eras
 minha! já dado me havias Coração, alegria e prazer! Mas el-rei
 invejou-me a ventura, P'ra gozar-te, mandou-me morrer! Justo Deus!
 maldição sobre o rei, prepotente, cruel e Inumano, Que escarnece dos
-povos a lei, E sobre eles calcou tão tirano!...***
+povos a lei, E sobre eles calcou tão tirano!...
 
 **D. Manuel** Lamenta uma mulher, que havia encher de doçura a sua vida! -
 uma parte da sua alma, que lha usurpou o monstro coroado, o espectro
@@ -1218,7 +1216,7 @@ os feitos duma raça ignominiosa! (Ouve-se ao longe uma pancada forte).
 **D. Manuel** Da parte do Santo Ofício! Talvez alguma intriga! não pode
 ser... eu sou seu familiar!... grandes coisas se têm passado!
 
-     Cena III
+***Cena III***
 
 ***D. Manuel, Agostinho de Ceuta, e depois o Carcereiro***
 
@@ -1384,7 +1382,7 @@ criminoso na presença do crime! (Saem).
 **D. Manuel** Sinto arfar meu coração como nunca senti! não é pavor... as
 forças esvaem-se-me rápidas como a vida... é um agouro tremendo...
 
-     Cena IV
+***Cena IV***
 
 ***Henrique de Miranda, e D. Manuel de Melo***
 
@@ -1552,7 +1550,7 @@ e o vingam das blasfémias dos condenados.
 Henrique Minto! quem to há dito... acaso terás comunicado!...
 Carcereiro... carcereiro...
 
-     Cena Última
+***Cena Última***
 
 ***Os mesmos, e Agostinho de Ceuta***
 
@@ -1616,9 +1614,9 @@ In... fer... no! (Cai).
 
 **Agostinho**, indigitando-o Julgou-se! morreu como devia morrer...
 
-#### Fim do Terceiro Acto ####
+***Fim do Terceiro Acto***
 
-# Acto Quarto #
+# Acto Quarto
 
 ***O filho de pais incógnitos***
 
@@ -1631,7 +1629,7 @@ Lus., Cant. 4º, Est. 1ª)
 Espaçoso interior duma ceia do mosteiro de religiosa da Madre de Deus. -
 Oratório, etc. - Grade para o exterior.
 
-     Cena I
+***Cena I***
 
 ***A Madre Abadessa, Soror Constança da Natividade, e depois D. Leonor de
 Melo***
@@ -1698,7 +1696,7 @@ espiritual. Aqui tendes um devocionário, repeti muitas vezes esta
 jaculatória, que começa: "Meu Deus, fortificai o meu espírito." Até
 logo, minha filha. (Sai).
 
-     Cena II
+***Cena II***
 
 **D. Leonor**, só: depõe o livro Meu Deus, meu Deus, fortificai o meu
 espírito! (Ajoelha). Fazei descer sobre minha alma o esquecimento do
@@ -1736,7 +1734,7 @@ esquife... professa... aqueles sinos... aqueles hábitos... aquelas
 tochas... livra-me, Agostinho, Agostinho, foges-me, ingrato, eu fico...
 Ah! (Cai desmaiada).
 
-     Cena III
+***Cena III***
 
 ***D. Leonor e Soror***
 
@@ -1846,7 +1844,7 @@ este rei, por quem peço todos os dias nas minhas orações, e a quem
 aborreço no fundo de minha alma.... Meu Deus! perdão... perdão... se
 alguém me ouvisse...
 
-     Cena IV
+***Cena IV***
 
 ***Soror, a Porteira, e depois Agostinho de Ceuta***
 
@@ -1897,7 +1895,7 @@ violentas! Inda a vejo... céus! eu vo-lo agradeço! inda a vejo, depois
 de três meses! Hoje era o último dia do seu noviciado, se uma fatalidade
 me demorasse...
 
-     Cena V
+***Cena V***
 
 ***D. Leonor, e Agostinho***
 
@@ -2108,7 +2106,7 @@ real estado.
 
 **D. Leonor** Livra-me, livra-me, pelo teu amor!
 
-     Cena VI
+***Cena VI***
 
 ***Os mesmos, e Soror***
 
@@ -2155,7 +2153,7 @@ protectora de vossas venturas (para Soror). Sois uma divindade: - a mão
 de Deus a manter o direito de suas criaturas! Soror, Leonor, às três
 horas (Sai).
 
-     Cena VII
+***Cena VII***
 
 ***D. Leonor, e Soror***
 
@@ -2219,12 +2217,12 @@ protectora, e a afrontar a maldade do rei: eu, mais que ninguém, devo
 proteger-vos, que já experimentei o azedume dos amores dum monarca. D.
 Leonor, vamos.
 
-### Segundo Quadro ###
+**Segundo Quadro**
 
 ***Vestíbulo do templo do mosteiro. Porta espaçosa e fechada de maneira a
 deixar, depois de aberta, ver grande parte do Interior.***
 
-     Cena I
+***Cena I***
 
 ***Agostinho de Ceuta, e depois o Conde de Castelo-Melhor***
 
@@ -2285,7 +2283,7 @@ armado, como pagem). Aqui tens este hábito, salva-te, que a tua vida
 escorrega na ladeira dos teus crimes... Vai... daqui se avizinham os
 cavalheiros (O conde sai).
 
-     Cena II
+***Cena II***
 
 ***Agostinho, D. Manuel de Melo, e o Duque de Cadaval***
 
@@ -2296,7 +2294,7 @@ preso... (Toque a professas).
 
 **Agostinho** Este toque...
 
-     Cena Última
+***Cena Última***
 
 ***(Abrem-se as portas do templo) Os mesmos, D. Leonor de Melo, ante um
 altar, à direita com hábitos de professa. A Madre Abadessa, Freiras com
