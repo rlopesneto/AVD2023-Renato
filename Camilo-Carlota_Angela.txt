@@ -1,5 +1,4 @@
 ---
-* Estrutura de um Romance linear dividido em capítulos
 Revision: Renato
 Title: Carlota Angela
 Author: Camilo Castelo Branco
