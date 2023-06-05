@@ -1,0 +1,61 @@
+GUIA APP-
+
+
+1. O código começa importando as bibliotecas necessárias: `streamlit`, `altair` e `pandas`.
+
+2. Em seguida, é definido o título do aplicativo usando `st.title()`.
+
+3. Depois disso, o código permite que o usuário faça o upload de um arquivo CSV usando `st.file_uploader()`. O arquivo carregado é armazenado na variável `uploaded_file`.
+
+4. Se o arquivo foi carregado com sucesso, o código lê o arquivo CSV usando `pd.read_csv()` e armazena os dados em um DataFrame chamado `df`.
+
+5. O DataFrame é exibido na interface do aplicativo usando `st.write()`.
+
+6. O usuário pode selecionar as colunas desejadas para os eixos X e Y por meio de caixas de seleção criadas com `st.selectbox()`. As colunas selecionadas são armazenadas nas variáveis `x_axis` e `y_axis`, respectivamente.
+
+7. Em seguida, são criados gráficos interativos usando a biblioteca `altair` e exibidos na interface do aplicativo com `st.altair_chart()`.
+
+8. Primeiro, é criado um gráfico de dispersão com `alt.Chart().mark_circle()`. As colunas selecionadas são mapeadas nos eixos X e Y e os tooltips são definidos para exibir as informações das colunas quando o usuário passar o mouse sobre os pontos do gráfico.
+
+9. Depois, um gráfico de barras é criado com `alt.Chart().mark_bar()`, usando os mesmos eixos X e Y.
+
+10. Em seguida, é criado um gráfico de linha com `alt.Chart().mark_line()`.
+
+11. Por fim, é criado um gráfico de área com `alt.Chart().mark_area()`.
+
+12. Cada gráfico é exibido na interface do aplicativo com `st.altair_chart()`.
+
+12. Essencialmente, o código permite que o usuário carregue um arquivo CSV, visualize os dados e crie gráficos interativos de dispersão, barras, linha e área com base nas colunas selecionadas. Os gráficos são criados usando a biblioteca Altair e exibidos na interface do aplicativo usando a biblioteca Streamlit.
+
+
+
+COMO CORRER A SCRIPT:
+
+1. Certifique-se de ter instalado as bibliotecas necessárias: pip install streamlit altair pandas
+
+2. No prompt de comando ou terminal, navegue até o diretório onde o arquivo app.py está localizado.
+
+3. Execute o seguinte comando para iniciar o aplicativo: streamlit run app.py
+
+4. Após executar o comando, verá uma URL local onde o aplicativo estará sendo executado.
+
+5. No aplicativo, verá o título e um botão para carregar um arquivo CSV. Clique no botão e selecione um arquivo CSV no seu computador, de preferencia os que foram tratados seguindo as guidelines, estarão disponível 4 ficheiros para esse efeito.
+
+6. Após carregar o arquivo, verá o DataFrame exibido na interface do aplicativo.
+
+7. Selecione as colunas desejadas para os eixos X e Y nos menus drop down.
+
+8. O aplicativo irá gerar gráficos interativos de dispersão, barras, linha e área com base nas colunas selecionadas. Os gráficos serão exibidos na interface do aplicativo.
+
+
+OBS:
+
+Pode interagir com os gráficos, como fazer zoom, mover, passar o mouse sobre os pontos para ver informações detalhadas e assim por diante.
+O aplicativo atualizará os gráficos conforme selecionar diferentes colunas para os eixos X e Y.
+Lembre-se de manter o prompt de comando ou terminal aberto enquanto estiver usando o aplicativo. 
+Se fizer alterações no código, o aplicativo será recarregado automaticamente e poderá ver as atualizações na interface.
+Para interromper a execução do aplicativo, basta pressionar Ctrl + C no prompt de comando ou terminal.
+
+
+
+

@@ -1,0 +1,73 @@
+Este código é um exemplo de um aplicativo Streamlit que realiza análise de texto, extrai entidades (nomes de pessoas e lugares) de um arquivo de texto selecionado e exibe a frequência dessas entidades em gráficos de barras.
+
+Aqui está uma explicação de cada passo do código:
+
+1. Importações: As bibliotecas necessárias são importadas, incluindo `re` para expressões regulares, `string` para manipulação de strings, `pandas` para manipulação de dados, `streamlit` para a criação da interface do usuário, `spacy` para processamento de linguagem natural, `nltk` para tokenização e stopwords, `altair` para visualização de dados e `requests` para fazer solicitações HTTP.
+
+2. Carregar modelo do Spacy: O modelo pré-treinado 'pt_core_news_sm' do Spacy é carregado para realizar o processamento de linguagem natural em textos em português.
+
+3. Lista de entidades excluídas: É definida uma lista de nomes de pessoas e lugares que serão excluídos da análise, como exemplos de nomes fictícios.
+
+4. Função `clean_text`: Esta função recebe um texto como entrada e realiza várias etapas de pré-processamento, incluindo remoção de palavras específicas, remoção de espaços em excesso, tokenização, remoção de stopwords e remoção de pontuação. O texto pré-processado é retornado.
+
+5. Função `extract_entities`: Esta função recebe um texto pré-processado e um tipo de entidade ('PER' para pessoa ou 'LOC' para lugar) como entrada. Utiliza o modelo do Spacy para extrair as entidades do texto que correspondem ao tipo especificado, excluindo as entidades da lista de exclusões. A função retorna um dicionário com as entidades e sua frequência.
+
+6. Interface do Streamlit: O título do aplicativo é definido.
+
+7. Dropdown para selecionar o arquivo de texto: O usuário pode selecionar um arquivo de texto pré-definido a partir de uma lista.
+
+8. Carregar o texto do arquivo do GitHub: O texto do arquivo selecionado é carregado a partir do GitHub usando a biblioteca `requests`.
+
+9. Limpar o texto: O texto é pré-processado chamando a função `clean_text` para remover stopwords, pontuação e outras informações indesejadas.
+
+10. Extrair as entidades de pessoa: A função `extract_entities` é chamada com o tipo de entidade 'PER' para extrair as entidades de pessoa do texto pré-processado.
+
+11. Extrair as entidades de lugar: A função `extract_entities` é chamada com o tipo de entidade 'LOC' para extrair as entidades de lugar do texto pré-processado.
+
+12. Criação de dataframe para as entidades de pessoa: Os dados das entidades de pessoa são armazenados em um dataframe do Pandas.
+
+13. Filtragem das entidades de pessoa: As entidades de pessoa com frequência maior que 2 são filtradas.
+
+14. Ordenação das entidades de pessoa: O dataframe é ordenado por frequência em ordem decrescente.
+
+15. Criação do gráfico de barras para as entidades de pessoa: Um gráfico de barras é criado usando a biblioteca Altair para visualizar a frequência dos nomes de pessoas.
+
+16. Criação de dataframe para as entidades de lugar: Os dados das entidades de lugar são arm
+
+azenados em um dataframe do Pandas.
+
+17. Filtragem das entidades de lugar: As entidades de lugar com frequência maior que 1 são filtradas.
+
+18. Ordenação das entidades de lugar: O dataframe é ordenado por frequência em ordem decrescente.
+
+19. Criação do gráfico de barras para as entidades de lugar: Um gráfico de barras é criado usando a biblioteca Altair para visualizar a frequência dos nomes de lugares.
+
+20. Exibição dos gráficos: Os gráficos de barras para as entidades de pessoa e de lugar são exibidos na interface do Streamlit.
+
+Um exemplo básico e pode ser adaptado e expandido para atender às necessidades específicas do projeto ou aplicação em que está sendo utilizado.
+
+
+
+COMO CORRER A SCRIPT:
+
+1. Certifique-se de que todas as bibliotecas necessárias estejam instaladas.
+
+2. Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo Python está localizado
+
+3. Execute o comando python streamlit run app4.py no terminal ou prompt de comando para iniciar a execução do script.
+
+4. Aguarde até que o servidor do Streamlit seja iniciado, verá uma mensagem no terminal informando a URL onde o aplicativo está sendo executado localmente.
+
+5. Acesse a URL fornecida pelo Streamlit e será redirecionado para a interface do usuário do aplicativo.
+
+6. Na interface do usuário, encontrará um dropdown para selecionar o arquivo de texto escolha um arquivo da lista disponível.
+
+7. O aplicativo irá carregar o texto do arquivo selecionado, processá-lo e exibir os gráficos de barras com a frequência dos nomes de pessoas e lugares encontrados no texto
+
+
+OBS:
+
+pode interagir com o aplicativo, selecionar diferentes arquivos de texto e explorar os resultados exibidos.
+
+Lembre-se de que precisará ter uma conexão com a Internet para que o aplicativo possa acessar os arquivos de texto no GitHub. 
+Além disso, certifique-se de que os arquivos de texto mencionados no código estejam disponíveis nos URLs corretos do GitHub para que o aplicativo possa carregá-los corretamente.
