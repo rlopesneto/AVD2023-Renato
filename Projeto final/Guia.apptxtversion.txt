@@ -1,0 +1,33 @@
+1. O código começa importando as bibliotecas necessárias, incluindo re, sys, matplotlib.pyplot, streamlit, pandas e altair.
+
+2. A variável POL é inicializada como um dicionário vazio.
+
+3. A função carrega_sentilex() é definida. Essa função carrega os dados do arquivo "sentilexjj.txt" e preenche o dicionário POL com as palavras e seus valores de polaridade.
+
+4. A função sentimento() é definida. Essa função recebe uma frase como entrada e calcula o sentimento com base nas palavras presentes na frase e em seus valores de polaridade no dicionário POL.
+
+5. A função criagraf() é definida. Essa função cria um gráfico de barras usando a biblioteca matplotlib com base nos dados fornecidos.
+
+6. A função main() é definida. Essa função é responsável pela execução principal do aplicativo.
+
+7. O título do aplicativo é exibido usando st.title().
+
+8. O usuário pode fazer o upload de um arquivo TXT usando st.file_uploader().
+
+9. Se o arquivo foi carregado com sucesso, o texto é lido e decodificado usando uploaded_file.read().decode('utf-8'). A função sentimento() é chamada para calcular o sentimento do texto.
+
+10. Vários dados sobre o sentimento são exibidos na interface do aplicativo usando st.write().
+
+11. O texto é dividido em capítulos usando o caractere "#" e os dados de sentimento para cada capítulo são calculados. Esses dados são armazenados em um DataFrame chamado df.
+
+12. Os dados do sentimento por capítulo são exibidos na interface do aplicativo usando st.write().
+
+13. Um gráfico de barras interativo é criado usando a biblioteca altair e exibido na interface do aplicativo com st.altair_chart().
+
+14. O usuário pode exportar o DataFrame para um arquivo CSV digitando um nome de arquivo e clicando no botão "Exportar". O arquivo CSV é salvo usando df.to_csv().
+
+15. Um gráfico de linha é criado usando a função criagraf() e exibido na interface do aplicativo.
+
+16. A função carrega_sentilex() é chamada para carregar os dados do arquivo "sentilexjj.txt".
+
+17. A função main() é chamada para iniciar a execução do aplicativo
